@@ -2,7 +2,7 @@
 
 Certifications
 
-<div>
+<div data-full-width="false">
 
 <figure><img src=".gitbook/assets/CompTIA_Security_2Bce.png" alt="" width="150"><figcaption></figcaption></figure>
 
