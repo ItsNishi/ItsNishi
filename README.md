@@ -4,7 +4,7 @@ Certifications
 
 <div>
 
-<figure><img src=".gitbook/assets/SecurityPlus Logo Certified CE.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/CompTIA_Security_2Bce.png" alt="" width="150"><figcaption></figcaption></figure>
 
  
 
@@ -12,7 +12,7 @@ Certifications
 
  
 
-<figure><img src=".gitbook/assets/CASP+ ce Certified.png" alt="" width="150"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/CompTIA_CASP_2Bce.png" alt="" width="150"><figcaption></figcaption></figure>
 
 </div>
 
