@@ -2,6 +2,8 @@
 
 Certifications
 
+
+
 <div data-full-width="false">
 
 <figure><img src=".gitbook/assets/CompTIA_Security_2Bce.png" alt="" width="150"><figcaption></figcaption></figure>
@@ -14,5 +16,8 @@ Certifications
 
 <figure><img src=".gitbook/assets/CompTIA_CASP_2Bce.png" alt="" width="150"><figcaption></figcaption></figure>
 
-</div>
+ 
 
+<figure><img src=".gitbook/assets/CompTIA_PenTest_2B.png" alt="" width="150"><figcaption></figcaption></figure>
+
+</div>
