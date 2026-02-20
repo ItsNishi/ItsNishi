@@ -13,6 +13,7 @@
 	<img src=".gitbook/assets/CompTIA_PenTest_2B.png" alt="PenTest+" height="120" />
 	<img src=".gitbook/assets/CCSK-v4-Credly-badge.png" alt="CCSK v4" height="120" />
 	<img src=".gitbook/assets/DEFCON_AD_Attacks.png" alt="Altered Security CRTE" height="120" />
+	<img src=".gitbook/assets/PJPT.webp" alt="TCM Security PJPT" height="120" />
 </p>
 
 ---
